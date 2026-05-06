@@ -95,9 +95,7 @@ Rank within the list by **value-to-effort ratio**, but include the ambitious bet
  
 ## Report structure
  
-Output a Markdown file. Save to the repo root as `FEATURE_IDEAS.md` unless the user asks otherwise. Use this exact structure:
- 
-```markdown
+Output a Markdown file. Save to the repo root using a unique skill-prefixed name so repeated runs do not overwrite previous output. Prefer a filename like `feature-ideation-<short-name>.md` where `<short-name>` describes the area of focus, or `feature-ideation-YYYYMMDD-HHMM.md` when no short name is available. If the user explicitly names the report, use that phrase in the filename. Use this exact structure:
 # Feature Ideas
  
 **Product:** <one sentence describing what this product is, in your own words>
