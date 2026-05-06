@@ -31,7 +31,7 @@ No competitor input is required — the codebase itself is the primary source.
 ## Installation
 
 ```bash
-npx skills add pchriste24/feature-ideation -g
+npx skills add pchriste24/feature-ideation-skill -g
 ```
 
 ## Output
